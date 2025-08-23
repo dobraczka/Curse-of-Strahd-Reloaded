@@ -62,6 +62,8 @@ Upon emerging from the fog, the players can see a fourth tree, which bears anoth
 <p>"THE SEER SPOKE TRUE."</p>
 </div>
 
+
+
 If the players follow the footpath in the direction of the arrow, they find that it crosses the Svalich Road before returning to the location of Dalvan's corpse. 
 
 If the players then leave Dalvan's corpse and return, they find that both his and the horse's remains have vanished.
