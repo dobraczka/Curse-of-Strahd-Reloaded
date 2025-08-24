@@ -76,6 +76,10 @@ half_proficiencies:
   - stealth
   - survival 
   - intimidation
+  
+expertise:
+  - Insight
+  - Persuasion
 ```
 
 ```consumable

@@ -1,0 +1,92 @@
+{
+  "state": {
+    "my_character_sneak_attack": {
+      "value": 0
+    },
+    "my_character_hp": {
+      "current": 28,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "my_character_spells_1": {
+      "value": 0
+    },
+    "bram_stoker_hp": {
+      "current": 19,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "bram_stoker_spells_1": {
+      "value": 0
+    },
+    "bram_stoker_spells_2": {
+      "value": 0
+    },
+    "bram_stoker_bardic_inspo": {
+      "value": 1
+    },
+    "mendi_battlehammer_hp": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "mendi_battlehammer_spells_1": {
+      "value": 0
+    },
+    "mendi_battlehammer_spells_2": {
+      "value": 0
+    },
+    "mendi_battlehammer_bardic_inspo": {
+      "value": 0
+    },
+    "sai_moonwhisper_hp": {
+      "current": 19,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "sai_moonwhisper_spells_1": {
+      "value": 0
+    },
+    "sai_moonwhisper_spells_2": {
+      "value": 0
+    },
+    "sai_moonwhisper_bardic_inspo": {
+      "value": 0
+    },
+    "forest_encounter": {
+      "activeIndex": -1,
+      "initiatives": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "Thordak (Fighter)": 0,
+        "Elf Wizard": 0,
+        "Goblin Warriors (x3)": 0
+      },
+      "hp": {
+        "Thordak (Fighter)": {
+          "main": 45
+        },
+        "Elf Wizard": {
+          "main": 28
+        },
+        "Goblin Warriors (x3)": {
+          "main": 21
+        },
+        "Sai Moonwhisper": {
+          "main": 2
+        }
+      },
+      "round": 1,
+      "consumables": {}
+    }
+  }
+}

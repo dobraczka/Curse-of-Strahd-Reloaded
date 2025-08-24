@@ -1,0 +1,497 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1755951461202,
+      "markers": [
+        {
+          "id": "ID_7b79d9c9986b",
+          "type": "default",
+          "loc": [
+            -14.4560546875,
+            11.402394030181979
+          ],
+          "link": "Arc B - Welcome to Barovia#B5c. The Blood of the Vine Tavern",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0828e9fbcb09",
+          "type": "default",
+          "loc": [
+            -17.8310546875,
+            11.308685641367067
+          ],
+          "link": "Arc B - Welcome to Barovia#B5e. Bildrath’s Mercantile",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d99aca1aa999",
+          "type": "default",
+          "loc": [
+            -19.5498046875,
+            10.184184975588105
+          ],
+          "link": "Arc B - Welcome to Barovia#B5k. Mad Mary’s Townhouse",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f818199ba808",
+          "type": "default",
+          "loc": [
+            -26.0810546875,
+            9.934295938748335
+          ],
+          "link": "Arc B - Welcome to Barovia#B5d. The Burgomaster’s Mansion",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f989584a4b6a",
+          "type": "default",
+          "loc": [
+            -8.8935546875,
+            6.123488126941855
+          ],
+          "link": "Arc B - Welcome to Barovia#B5i. The Barovian Church",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78a9a829a878",
+          "type": "default",
+          "loc": [
+            -16.1123046875,
+            10.184184975588103
+          ],
+          "link": "Arc B - Welcome to Barovia#B5b. The Town Square",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Barovia Village/Barovia Village.md",
+        "maps/Barovia Village/Barovia Church.md"
+      ]
+    },
+    {
+      "id": "barovia-land-map",
+      "lastAccessed": 1755951708967,
+      "markers": [
+        {
+          "id": "ID_f8a819dbfb3a",
+          "type": "default",
+          "loc": [
+            -19.1826171875,
+            38.30859375
+          ],
+          "link": "Arc B - Welcome to Barovia#B5. The Village of Barovia",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8f9eb884a78",
+          "type": "default",
+          "loc": [
+            -17.16552734375,
+            47.121386762094986
+          ],
+          "link": "Arc B - Welcome to Barovia#B1. Old Svalich Road",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bba4a8bf948",
+          "type": "default",
+          "loc": [
+            -17.05615234375,
+            45.40384348646249
+          ],
+          "link": "Arc B - Welcome to Barovia#B2. Gates of Barovia",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b7b58caeaca",
+          "type": "default",
+          "loc": [
+            -18.35302734375,
+            44.4199054039059
+          ],
+          "link": "Arc B - Welcome to Barovia#B3. Svalich Woods",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a98d989da5b",
+          "type": "default",
+          "loc": [
+            -19.75927734375,
+            42.842480858854856
+          ],
+          "link": "Arc B - Welcome to Barovia#B4. Barovian Overlook",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Barovia Land.md"
+      ]
+    },
+    {
+      "id": "barovia-village-church",
+      "lastAccessed": 1755951807114,
+      "markers": [
+        {
+          "id": "ID_d9980ba8eada",
+          "type": "default",
+          "loc": [
+            -24.287109375,
+            17.623940555185303
+          ],
+          "link": "Arc B - Welcome to Barovia#Inside the Church",
+          "layer": "%5B%5Bbarovia_village_church.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Barovia Village/Barovia Church.md"
+      ]
+    },
+    {
+      "id": "barovia-village",
+      "lastAccessed": 1756028864562,
+      "markers": [
+        {
+          "id": "ID_bb8aa85bcbca",
+          "type": "default",
+          "loc": [
+            -16.1748046875,
+            21.2138671875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5a. The Barricade",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9d94b6b0a89",
+          "type": "default",
+          "loc": [
+            -16.9248046875,
+            21.0888671875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5f. The Eastern Barricade",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a2bfb09fae9",
+          "type": "default",
+          "loc": [
+            -14.4873046875,
+            11.4638671875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5c. The Blood of the Vine Tavern",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89793a9b896b",
+          "type": "default",
+          "loc": [
+            -17.7060546875,
+            11.3076171875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5e. Bildrath’s Mercantile",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8f9389919fb",
+          "type": "default",
+          "loc": [
+            -19.4873046875,
+            10.2138671875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5k. Mad Mary’s Townhouse",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_681868ebe969",
+          "type": "default",
+          "loc": [
+            -26.0498046875,
+            9.9638671875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5d. The Burgomaster’s Mansion",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9ba08295a2b",
+          "type": "default",
+          "loc": [
+            -16.2060546875,
+            9.9951171875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5b. The Town Square",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b59b8e8e919",
+          "type": "default",
+          "loc": [
+            -16.3310546875,
+            4.2451171875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5g. The Western Barricade",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2abb2bf949aa",
+          "type": "default",
+          "loc": [
+            -8.6748046875,
+            6.0576171875
+          ],
+          "link": "Arc B - Welcome to Barovia#B5i. The Barovian Church",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49e989da8a6b",
+          "type": "default",
+          "loc": [
+            -4.4560546875,
+            6.4638671875
+          ],
+          "link": "Arc B - Welcome to Barovia#The Burial",
+          "layer": "%5B%5Bbarovia_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Barovia Village/Barovia Village.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "1000px",
+    "image": "[[barovia_map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[barovia_map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

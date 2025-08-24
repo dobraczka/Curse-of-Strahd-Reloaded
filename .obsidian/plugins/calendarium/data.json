@@ -1,0 +1,364 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Barovian Calendar",
+      "description": "Calendar of the realm of Barovia, home of Strahd.",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": true,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_6a183b08c8eb"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_892b7b7a5ae9"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_6bb98899ba68"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_4a7b683aea19"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_78690a099b89"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_ba5b09ba5a89"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_29b90acaead9"
+          }
+        ],
+        "months": [
+          {
+            "name": "Yinvar",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_7b4978ab581a"
+          },
+          {
+            "name": "Fivral",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_cb99fbb9395b"
+          },
+          {
+            "name": "Mart",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_79881a89cb18"
+          },
+          {
+            "name": "Apryl",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_5b9a8a397908"
+          },
+          {
+            "name": "Mai",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_f8399ab80818"
+          },
+          {
+            "name": "Eyune",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3ac84a7bc869"
+          },
+          {
+            "name": "Eyule",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e98bc86bc809"
+          },
+          {
+            "name": "Avgust",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_89ea78ca5988"
+          },
+          {
+            "name": "Sintyavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_798a3b990a4b"
+          },
+          {
+            "name": "Octavyr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3a9999e8eb59"
+          },
+          {
+            "name": "Neyavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_db39383b990a"
+          },
+          {
+            "name": "Dekavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_1bfa3b180a48"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 28,
+            "offset": 21,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_e98b3a8ab8da"
+          }
+        ],
+        "leapDays": [],
+        "eras": [
+          {
+            "name": "B.C.",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_185ab9b8b95a",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ]
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_e8581af83b7a",
+            "name": "Winter",
+            "type": "Periodic",
+            "color": "#2712e2",
+            "duration": 0,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 28,
+        "month": 9,
+        "year": 735
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "The Winter Solstice is the day of the year with the least time between sunrise and sunset. Many western cultures consider it the official date of winter.",
+          "id": "824455",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "The Summer Solstice is the day of the year with the most time between \nsunrise and sunset. Many western cultures consider it the official date\n of summer.",
+          "id": "824456",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The Spring Equinox,\nalso called the Vernal Equinox, is the day between the winter and\nsummer solstices where the day is the exact same length as the night.\nMany western cultures consider it the official date of Spring.\n",
+          "id": "824457",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": "The Autumnal Equinox,\nalso called the Fall Equinox, is the midpoint between the summer and\nwinter solstices, where the day is the exact same length as the night.\nMany western cultures consider it the official date of Autumn.\n",
+          "id": "824458",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's day marks the date of a new year.",
+          "id": "824459",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824460",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        }
+      ],
+      "id": "ID_dbf8b81949a8",
+      "categories": [
+        {
+          "name": "Natural Event",
+          "id": "natural-event",
+          "color": "#9e9d24"
+        }
+      ]
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_dbf8b81949a8",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

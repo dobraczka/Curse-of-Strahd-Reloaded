@@ -9,7 +9,7 @@ items:
   - label: Proficiency
     value: "{{ frontmatter.proficiency_bonus }}"
   - label: AC
-    value: "{{ add 11 (modifier abilities.dexterity) }}"
+    value: "{{ add 13 (modifier abilities.dexterity) }}"
   - label: Passive Perception
     value: "{{ add 10 (modifier abilities.wisdom) frontmatter.proficiency_bonus }}"
   - label: Initiative
@@ -22,6 +22,8 @@ items:
     value: Determination
   - label: Flaws
     value: Control
+  - label: Spells Prepared
+    value: "{{ add (modifier abilities.wisdom) frontmatter.level}}"
 ```
 
 
