@@ -1,6 +1,7 @@
 ---
 level: 3
 proficiency_bonus: 2
+ac: "16"
 ---
 ```stats
 items:

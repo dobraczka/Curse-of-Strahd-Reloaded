@@ -1,5 +1,369 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "dd",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "dd",
+        "source": [],
+        "alignment": null,
+        "hp": null,
+        "hit_dice": "",
+        "speed": "—",
+        "stats": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "",
+        "traits": [],
+        "actions": [],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Rahadin",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Rahadin",
+        "source": [
+          "Curse of Strahd"
+        ],
+        "type": "humanoid",
+        "subtype": "elf",
+        "size": "Medium",
+        "alignment": "lawful evil",
+        "hp": 135,
+        "hit_dice": "18d8 + 54",
+        "ac": "18 (studded leather armor)",
+        "speed": "35 ft.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "constitution": "7"
+          },
+          {
+            "wisdom": "7"
+          }
+        ],
+        "skillsaves": [
+          {
+            "deception": "8"
+          },
+          {
+            "insight": "7"
+          },
+          {
+            "intimidation": "12"
+          },
+          {
+            "perception": "11"
+          },
+          {
+            "stealth": "14"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 21",
+        "languages": "Common, Elvish",
+        "cr": "10",
+        "traits": [
+          {
+            "name": "Deathly Choir",
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one."
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep."
+          },
+          {
+            "name": "Mask of the Wild",
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned darts."
+          },
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack +10 to hit, reach 5 ft., one target. 9 (1d6 + 6) slashing damage."
+          },
+          {
+            "name": "Poisoned Dart",
+            "desc": "Ranged Weapon Attack +10 to hit, range 20/60 ft., one target. 8 (1d4 + 6) piercing damage plus 5 (2d4) poison damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [
+          "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:",
+          {
+            "3/day each": "misty step, phantom steed"
+          },
+          {
+            "1/day each": "magic weapon, nondetection"
+          }
+        ],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Parriwimple",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Parriwimple",
+        "source": [
+          "Curse of Strahd"
+        ],
+        "type": "humanoid",
+        "subtype": "human",
+        "size": "Medium",
+        "alignment": "lawful good",
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "ac": "14 (studded leather armor)",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          15,
+          16,
+          6,
+          12,
+          15
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "7"
+          },
+          {
+            "dexterity": "5"
+          },
+          {
+            "constitution": "6"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "10"
+          },
+          {
+            "intimidation": "5"
+          }
+        ],
+        "senses": "passive Perception 11",
+        "languages": "any one language (usually Common)",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Brave",
+            "desc": "Parriwimple has advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Brute",
+            "desc": "A melee weapon deals one extra die of its damage when Parriwimple hits with it (included in the attack)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Parriwimple makes three melee attacks or two ranged attacks."
+          },
+          {
+            "name": "Spear",
+            "desc": "Melee / Ranged Weapon Attack +7 to hit, reach 5 ft. and range 20/60 ft., one target. 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack."
+          },
+          {
+            "name": "Shield Bash",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one creature. 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a 15 Strength saving throw or be knocked prone."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "Parriwimple adds 3 to its AC against one melee attack that would hit it. To do so, Parriwimple must see the attacker and be wielding a melee weapon."
+          }
+        ],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Ismark Kolyanovich",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Ismark Kolyanovich",
+        "source": [
+          "Curse of Strahd"
+        ],
+        "type": "humanoid",
+        "subtype": "human",
+        "size": "Medium",
+        "alignment": "lawful good",
+        "hp": 58,
+        "hit_dice": "9d8 + 18",
+        "ac": "17 (splint armor)",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          13,
+          14,
+          10,
+          11,
+          10
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "athletics": "5"
+          },
+          {
+            "perception": "2"
+          }
+        ],
+        "senses": "passive Perception 12",
+        "languages": "any one language (usually Common)",
+        "cr": "3",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Ismark makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack."
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage."
+          },
+          {
+            "name": "Heavy Crossbow",
+            "desc": "Ranged Weapon Attack +3 to hit, range 100/400 ft., one target. 6 (1d10 + 1) piercing damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Zombie Plague Spreader",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Zombie Plague Spreader",
+        "source": [
+          "Van Richten's Guide to Ravenloft"
+        ],
+        "type": "undead",
+        "size": "Medium",
+        "alignment": null,
+        "hp": 78,
+        "hit_dice": "12d8 + 24",
+        "ac": 10,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          10,
+          15,
+          3,
+          5,
+          5
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "necrotic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., passive Perception 7",
+        "languages": "understands the languages it knew in life but can't speak",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+          },
+          {
+            "name": "Unusual Nature",
+            "desc": "The zombie doesn't require air, food, drink, or sleep."
+          },
+          {
+            "name": "Viral Aura",
+            "desc": "Any creature that starts its turn within 10 feet of the plague spreader must make a 12 Constitution saving throw. On a failed save, the creature is poisoned and can't regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader's Viral Aura for 24 hours."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The plague spreader makes two Slam attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage."
+          },
+          {
+            "name": "Virulent Miasma (1/Day)",
+            "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered on itself. Each creature in that area must make a 12 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one. A Humanoid reduced to 0 hit points by this damage dies and rises as a zombie (see its stat block in the Monster Manual) 1 minute later. The zombie acts immediately after the plague spreader in the initiative count."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",

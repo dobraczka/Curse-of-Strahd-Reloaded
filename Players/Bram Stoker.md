@@ -1,6 +1,9 @@
 ---
 level: 3
 proficiency_bonus: 2
+ac: "13"
+initiative modifier: "+2"
+max hit points: "19"
 ---
 ```stats
 items:
