@@ -23,6 +23,7 @@ items:
   - label: Flaws
     value: Control
   - label: Spells Prepared
+    sublabel: Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon
     value: "{{ add (modifier abilities.wisdom) frontmatter.level}}"
 ```
 

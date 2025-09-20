@@ -84,7 +84,7 @@ items:
     sublabel: 1d8
     value: +4
   - label: Longsword
-    sublabel: 1d8
+    sublabel: 1d8 (+2 dueling)
     value: +4
 grid:
   columns: 2
