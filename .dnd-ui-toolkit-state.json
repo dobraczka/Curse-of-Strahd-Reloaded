@@ -27,7 +27,7 @@
       "value": 0
     },
     "bram_stoker_bardic_inspo": {
-      "value": 1
+      "value": 0
     },
     "mendi_battlehammer_hp": {
       "current": 24,
@@ -48,7 +48,7 @@
     "sai_moonwhisper_hp": {
       "current": 19,
       "temporary": 0,
-      "hitdiceUsed": 0,
+      "hitdiceUsed": 2,
       "deathSaveSuccesses": 0,
       "deathSaveFailures": 0
     },

@@ -115,102 +115,6 @@
       ]
     },
     {
-      "id": "barovia-land-map",
-      "lastAccessed": 1755951708967,
-      "markers": [
-        {
-          "id": "ID_f8a819dbfb3a",
-          "type": "default",
-          "loc": [
-            -19.1826171875,
-            38.30859375
-          ],
-          "link": "Arc B - Welcome to Barovia#B5. The Village of Barovia",
-          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c8f9eb884a78",
-          "type": "default",
-          "loc": [
-            -17.16552734375,
-            47.121386762094986
-          ],
-          "link": "Arc B - Welcome to Barovia#B1. Old Svalich Road",
-          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0bba4a8bf948",
-          "type": "default",
-          "loc": [
-            -17.05615234375,
-            45.40384348646249
-          ],
-          "link": "Arc B - Welcome to Barovia#B2. Gates of Barovia",
-          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6b7b58caeaca",
-          "type": "default",
-          "loc": [
-            -18.35302734375,
-            44.4199054039059
-          ],
-          "link": "Arc B - Welcome to Barovia#B3. Svalich Woods",
-          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7a98d989da5b",
-          "type": "default",
-          "loc": [
-            -19.75927734375,
-            42.842480858854856
-          ],
-          "link": "Arc B - Welcome to Barovia#B4. Barovian Overlook",
-          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "maps/Barovia Land.md"
-      ]
-    },
-    {
       "id": "barovia-village-church",
       "lastAccessed": 1755951807114,
       "markers": [
@@ -417,6 +321,201 @@
       "shapes": [],
       "files": [
         "maps/Barovia Village/Barovia Village.md"
+      ]
+    },
+    {
+      "id": "barovia-land-map",
+      "lastAccessed": 1759514500677,
+      "markers": [
+        {
+          "id": "ID_f8a819dbfb3a",
+          "type": "default",
+          "loc": [
+            -19.1826171875,
+            38.30859375
+          ],
+          "link": "Arc B - Welcome to Barovia#B5. The Village of Barovia",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8f9eb884a78",
+          "type": "default",
+          "loc": [
+            -17.16552734375,
+            47.121386762094986
+          ],
+          "link": "Arc B - Welcome to Barovia#B1. Old Svalich Road",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bba4a8bf948",
+          "type": "default",
+          "loc": [
+            -17.05615234375,
+            45.40384348646249
+          ],
+          "link": "Arc B - Welcome to Barovia#B2. Gates of Barovia",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b7b58caeaca",
+          "type": "default",
+          "loc": [
+            -18.35302734375,
+            44.4199054039059
+          ],
+          "link": "Arc B - Welcome to Barovia#B3. Svalich Woods",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a98d989da5b",
+          "type": "default",
+          "loc": [
+            -19.75927734375,
+            42.842480858854856
+          ],
+          "link": "Arc B - Welcome to Barovia#B4. Barovian Overlook",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bf9481b38da",
+          "type": "default",
+          "loc": [
+            -19.1044921875,
+            32.00667676211454
+          ],
+          "link": "Tser Pool",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ad82bba8a78",
+          "type": "default",
+          "loc": [
+            -22.3701171875,
+            32.88192914831131
+          ],
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ivlis Kreuzung, Galgen\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb7a191b6beb",
+          "type": "default",
+          "loc": [
+            -19.396484375,
+            27.667370288790995
+          ],
+          "link": "Arc C - Into the Valley#C6. The Watchtower",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Wachturm\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8fb5adbe99b",
+          "type": "default",
+          "loc": [
+            -15.90625,
+            34.9375
+          ],
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Schloss Ravenloft",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29589b481bcb",
+          "type": "default",
+          "loc": [
+            -16.8076171875,
+            28.131003732256485
+          ],
+          "link": "Arc C - Into the Valley#C7b. Tser Falls",
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tser Falls",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48da7bdb2948",
+          "type": "default",
+          "loc": [
+            -15.23046875,
+            16.26618330885952
+          ],
+          "layer": "%5B%5Bbarovia_full.jpeg.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Arghynvostholt",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Barovia Land.md"
       ]
     }
   ],
