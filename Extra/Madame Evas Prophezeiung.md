@@ -1,0 +1,8 @@
+- 1. Geschichte des Alten wird euch helfen den Feind zu verstehen: 9 der Glyphen der Verräter: "Ich sehe einen alten Feind eines althergebrachten und noblen Hauses. Die verlorene Seele wird euch zu ihm leiten"
+	- Tome of Strahd kann durch Rettung von Stella gefunden werden
+- 2. Kraft des Guten und des Schutzes: 5 der Schwerter - der Myrmidon: Rudel Wölfe in den Bergen welche den See überblicken. Schatz gehört Mutter Nacht
+	- Heilige Symbol der Rabenartigen -> Wolfshöhle
+- 3. Sonnenschwert: Acht der Glyphen – der Bischof: bernsteinfarbene Gefängnis Haus des gefallenen Drachen kann euch hin führen
+	- -> Bernsteintempel
+- 4. Hilfe: Nebel,  Vistana, auf der Suche nach ihrem Mentor. Abtei von St. Markovia beim Nebel
+- 5.  Ort des Feindes:  Marionette: großen Höhen, schlagende Herz des Schlosses
