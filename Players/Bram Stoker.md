@@ -37,10 +37,10 @@ items:
 
 ```healthpoints
 state_key: bram_stoker_hp
-health: 19
+health: 24
 hitdice:
   dice: d8
-  value: 3
+  value: 4
 ```
 
 ```ability
@@ -48,9 +48,9 @@ abilities:
   strength: 10
   dexterity: 15
   constitution: 12
-  intelligence: 11
+  intelligence: 12
   wisdom: 12
-  charisma: 17
+  charisma: 18
 
 proficiencies:
   - dexterity
@@ -93,11 +93,11 @@ items:
     reset_on: "long-rest"
   - label: "Level 2 Spells"
     state_key: bram_stoker_spells_2
-    uses: 2
+    uses: 3
     reset_on: "long-rest"
   - label: "Bardic Inspiration"
     state_key: bram_stoker_bardic_inspo
-    uses: 3
+    uses: 4
     reset_on: "long-rest"
 ```
 

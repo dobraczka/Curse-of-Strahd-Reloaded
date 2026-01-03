@@ -154,8 +154,8 @@
         "moons": [
           {
             "name": "Moon",
-            "cycle": 28,
-            "offset": 21,
+            "cycle": 14,
+            "offset": 14,
             "faceColor": "#ffffff",
             "shadowColor": "#000000",
             "id": "ID_e98b3a8ab8da"
@@ -210,8 +210,8 @@
         "locations": []
       },
       "current": {
-        "day": 28,
-        "month": 9,
+        "day": 3,
+        "month": 10,
         "year": 735
       },
       "events": [
@@ -319,6 +319,295 @@
             "timestamp": 5e-324,
             "order": ""
           }
+        },
+        {
+          "name": "Players arrive in Vallaki",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_b8281ba948cb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Rictavio reserves a room at the inn",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_fa689819a998",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Milivojy steals bones at night",
+          "description": "He then brings them to the coffing maker",
+          "date": {
+            "day": 2,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_f8aac95aa89a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lucian discovers missing bones",
+          "description": "At dawn, Father Lucian Petrovich discovers the missing bones. Ireena visits players at Blue Water in and Arc D - St. Andral's Feast begins",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_0909badbdb0b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Izek sees Ireena",
+          "description": "Izek Strazni and two guards put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_b9d95bc9586a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ireena tries to meet with Baron",
+          "description": "The day after she speaks with the refugees for the first time, Ireena attempts to meet with the Baron, using her noble birth as a means of obtaining his attention. Though she expects to meet with him alone, she welcomes the players' support and assistance if offered.\n\nIf Ireena has already encountered or heard of the Baron’s temperament, she is under no illusions as to the difficulty of winning his favor. However, she is determined to do her best to at least try to help her people—and, as a noble, she is no stranger to the realities of negotiation, compromise, and manipulation.\n\nDuring Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates.\n\nIf the players are present at this meeting and befriend or antagonize the Baron, he responds as described in Roleplaying the Vallakovich Family (p. 105). He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. \"The heavens will see our joy and wealth and look favorably upon us,\" he crows. \"Through our good spirits, we shall move ever-closer to our freedom from this fell darkness.\"",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_9b889a096ada",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Possible invitation to Lady Wachter",
+          "description": "That night, if the players defied Baron Vallakovich or aided Willemina Rikalova on their first morning in Vallaki, the players receive an invitation left by Ernst Larnak inviting them to dine with Lady Fiona Wachter at Wachterhaus. Players who accept Lady Wachter's invitation at this point begin Arc F - Lady Wachter's Wish.",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_997afa082aab",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arabelle's Nameday",
+          "description": "Arabelle's nameday takes place at the Vistani encampment. (If the players haven't yet rescued her in Arc E - The Missing Vistana, she is missing, and no celebration occurs.)",
+          "date": {
+            "day": 4,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_d8f9eb9a685b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Izek ransacks Blue Water Inn",
+          "description": "If Izek Strazni saw Ireena outside of the Blue Water Inn on the players' first morning in Vallaki, he visits the Inn while the players are away—preferably at dusk, during Lady Wachter's dinner—and ransacks it in a search for Ireena. Arc G - The Strazni Siblings then begins.",
+          "date": {
+            "day": 4,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_e9f88a597a89",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Poison for Izek",
+          "description": "If the players accepted Lady Wachter's mission to kill Izek Strazni, Ernst Larnak meets them at the Blue Water Inn with a poisoned bottle of wine and a burlap sack for Izek's head.",
+          "date": {
+            "day": 5,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_b8486a595bd8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Visit by Erasmus",
+          "description": "That night, if the players completed Arc E - The Missing Vistana and have not yet begun Arc H - The Lost Soul, the spirit of Erasmus van Richten appears to the players as a poltergeist and invites them to meet with Victor Vallakovich.",
+          "date": {
+            "day": 5,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_d8e8fabb7b1b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Izek kidnaps Ireena",
+          "description": "While the players are away, if the players haven't defeated Izek Strazni in Arc F - Lady Wachter's Wish, Izek kidnaps Ireena and takes her to the Burgomaster's mansion as described in Arc G - The Strazni Siblings.",
+          "date": {
+            "day": 6,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_4ae90adaebf8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "St. Andrals Protection fails",
+          "description": "If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.\n\nAt sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast.\n\nIf the protective wards of St. Andral's Church have not been restored, Strahd's vampiric bride Volenta Popofsky attacks the church during the service, killing dozens of Vallakians and Baroness Lydia Petrovna.",
+          "date": {
+            "day": 7,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_2beb9949485b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fest der glühenden Sonne",
+          "description": "If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in N8. Town Square (p. 119) as described in Festival of the Blazing Sun (p. 123). If Izek kidnapped Ireena in Arc G - The Strazni Siblings and the players haven't rescued her, she burns alive in the wicker sun at noon.",
+          "date": {
+            "day": 7,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_99bae85b5a58",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Angry mob outside Vallakovich manor",
+          "description": "If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in Arc D - St. Andral's Feast, an angry mob forms outside of Baron Vallakovich's manor.\n\nShortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in Arc D - St. Andral's Feast, the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in Argynvostholt.",
+          "date": {
+            "day": 8,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_fbda28aa0ae9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Milivoj suicide",
+          "description": "The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family.",
+          "date": {
+            "day": 8,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_b8a9fa7a8ac8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Stella Wachter's soul vanishes from Ethereal plane",
+          "description": "If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving Victor Vallakovich hears the call of an amber shard buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.",
+          "date": {
+            "day": 9,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_596a58e80a89",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_dbf8b81949a8",

@@ -1,5 +1,5 @@
 ---
-level: 3
+level: 4
 proficiency_bonus: 2
 ---
 ```stats
@@ -41,10 +41,10 @@ items:
 
 ```healthpoints
 state_key: sai_moonwhisper_hp
-health: 19
+health: 26
 hitdice:
   dice: d8
-  value: 3
+  value: 4
 ```
 
 ```ability
@@ -52,8 +52,8 @@ abilities:
   strength: 14
   dexterity: 12
   constitution: 13
-  intelligence: 13
-  wisdom: 15
+  intelligence: 14
+  wisdom: 16
   charisma: 8
 
 proficiencies:
@@ -84,8 +84,17 @@ items:
 	uses: 1
     reset_on: "long-rest"
 ```
-
-
+```consumable
+items:
+  - label: "Level 1 Spells"
+    state_key: sai_moonswhisper_spells_1
+    uses: 4
+    reset_on: "long-rest"
+  - label: "Level 2 Spells"
+    state_key: sai_moonswhisper_spells_2
+    uses: 3
+    reset_on: "long-rest"
+```
 ## Weapons
 
 ```stats

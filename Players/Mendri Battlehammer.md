@@ -39,15 +39,15 @@ items:
 
 ```healthpoints
 state_key: mendi_battlehammer_hp
-health: 24
+health: 31
 hitdice:
   dice: d10
-  value: 3
+  value: 4
 ```
 
 ```ability
 abilities:
-  strength: 14
+  strength: 16
   dexterity: 15
   constitution: 14
   intelligence: 10

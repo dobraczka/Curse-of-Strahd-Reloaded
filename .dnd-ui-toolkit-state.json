@@ -14,7 +14,7 @@
       "value": 0
     },
     "bram_stoker_hp": {
-      "current": 0,
+      "current": 24,
       "temporary": 0,
       "hitdiceUsed": 0,
       "deathSaveSuccesses": 0,
@@ -30,7 +30,7 @@
       "value": 0
     },
     "mendi_battlehammer_hp": {
-      "current": 24,
+      "current": 31,
       "temporary": 0,
       "hitdiceUsed": 0,
       "deathSaveSuccesses": 0,
@@ -46,9 +46,9 @@
       "value": 0
     },
     "sai_moonwhisper_hp": {
-      "current": 19,
+      "current": 26,
       "temporary": 0,
-      "hitdiceUsed": 2,
+      "hitdiceUsed": 0,
       "deathSaveSuccesses": 0,
       "deathSaveFailures": 0
     },
@@ -87,6 +87,15 @@
       },
       "round": 1,
       "consumables": {}
+    },
+    "sai_moonsh_spells_1": {
+      "value": 0
+    },
+    "sai_moonswhisper_spells_1": {
+      "value": 0
+    },
+    "sai_moonswhisper_spells_2": {
+      "value": 0
     }
   }
 }

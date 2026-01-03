@@ -325,7 +325,7 @@
     },
     {
       "id": "barovia-land-map",
-      "lastAccessed": 1759514500677,
+      "lastAccessed": 1766330041431,
       "markers": [
         {
           "id": "ID_f8a819dbfb3a",
@@ -516,6 +516,251 @@
       "shapes": [],
       "files": [
         "maps/Barovia Land.md"
+      ]
+    },
+    {
+      "id": "vallaki-town-map",
+      "lastAccessed": 1767102704792,
+      "markers": [
+        {
+          "id": "ID_d8e948684838",
+          "type": "default",
+          "loc": [
+            -11.29296875,
+            14.142406999510523
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "St. Andrals Kirche",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6888e8abf9ab",
+          "type": "default",
+          "loc": [
+            -10.73046875,
+            22.021261625061186
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Blue Water Inn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_588bd9db3af9",
+          "type": "default",
+          "loc": [
+            -14.458984375,
+            20.91633015173764
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bürgermeister Villa",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa5a581839ea",
+          "type": "default",
+          "loc": [
+            -8.958984375,
+            24.949553352912382
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Wachterhaus",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39fa5bda6a0a",
+          "type": "default",
+          "loc": [
+            -14.333984375,
+            31.859183798335778
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Arasek's Lagerhaus",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b29887a4a1a",
+          "type": "default",
+          "loc": [
+            -14.677734375,
+            27.982287077826726
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sargmacher",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbba7b3ae8bb",
+          "type": "default",
+          "loc": [
+            -13.177734375,
+            23.136166177190404
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Blinsky",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0949db69b969",
+          "type": "default",
+          "loc": [
+            -13.396484375,
+            25.199675721977485
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Marktplatz",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b2a58dbba69",
+          "type": "default",
+          "loc": [
+            -19.1201171875,
+            3.2210061796377873
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Vistani Camp",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a2beab98999",
+          "type": "default",
+          "loc": [
+            -11.177734375,
+            29.1057268722467
+          ],
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Milivojs Haus",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b08e8397959",
+          "type": "default",
+          "loc": [
+            -14.3388671875,
+            25.879443526676457
+          ],
+          "link": "Kallixtus Kantige Kartoffeln",
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Kallixtus",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c879b9896b",
+          "type": "default",
+          "loc": [
+            -13.2919921875,
+            27.302014500734217
+          ],
+          "link": "Gracielas Ganzheitliche Geschichten und Gebräu",
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gracielas",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da5b890abbaa",
+          "type": "default",
+          "loc": [
+            -13.015625,
+            22.015625
+          ],
+          "link": "Marius Magische Mirakel",
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6021367521367521,
+            0.5784722222222223
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aaa2a38bb48",
+          "type": "default",
+          "loc": [
+            -12.53125,
+            24.328125
+          ],
+          "link": "Beschwipster Bieber",
+          "layer": "%5B%5BVallaki_town_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6653846153846154,
+            0.5569444444444445
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Vallaki/Vallaki Stadt.md"
       ]
     }
   ],

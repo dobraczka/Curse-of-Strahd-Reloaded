@@ -426,6 +426,229 @@
         "spells": [],
         "spellsNotes": ""
       }
+    ],
+    [
+      "Volenta Popofsky, First Form",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Volenta Popofsky, First Form",
+        "source": [
+          "Custom"
+        ],
+        "type": "undead",
+        "size": "Medium",
+        "alignment": "chaotic evil",
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "ac": "15 (natural armor)",
+        "speed": "30 ft., climb 30 ft.",
+        "stats": [
+          16,
+          18,
+          16,
+          16,
+          14,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "necrotic, bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": "7"
+          },
+          {
+            "wisdom": "5"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "10"
+          },
+          {
+            "perception": "5"
+          },
+          {
+            "stealth": "10"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 15",
+        "languages": "Common",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn."
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Sunlight Hypersensitivity",
+            "desc": "While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks."
+          },
+          {
+            "name": "Nimble Escape",
+            "desc": "Volenta can take the Disengage or Hide action as a bonus action on each of her turns."
+          },
+          {
+            "name": "Awakened Bloodlust",
+            "desc": "When Volenta drops to 0 hit points, her nostrils flare like a bat's, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Volenta uses Hail of Daggers twice, dagger twice, or Hail of Daggers once and either Tanglefoot or Thunderstone."
+          },
+          {
+            "name": "Hail of Daggers",
+            "desc": "Ranged Weapon Attack +7 to hit, range 15 ft., one target. 9 (2d4 + 4) piercing damage."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 6 (1d4 + 4) piercing damage."
+          },
+          {
+            "name": "Tanglefoot",
+            "desc": "Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.\nThis action can be used once per day."
+          },
+          {
+            "name": "Thunderstone",
+            "desc": "Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta's next turn.\nThis action can be used once per day."
+          },
+          {
+            "name": "Alchemist's Firebomb",
+            "desc": "Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.\nThis action can be used once per day."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [
+          {
+            "name": "Smokestick",
+            "desc": "When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.\nThis reaction can be used once per day."
+          }
+        ],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Twig Blight",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Twig Blight",
+        "source": [
+          "XMM",
+          "DrDe",
+          "FRHoF",
+          "FRAiF"
+        ],
+        "type": "plant",
+        "size": "Small",
+        "alignment": "neutral evil",
+        "hp": 7,
+        "hit_dice": "2d6",
+        "ac": 14,
+        "speed": "20 ft.",
+        "stats": [
+          6,
+          14,
+          11,
+          4,
+          8,
+          3
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "deafened",
+        "saves": [],
+        "skillsaves": [
+          {
+            "stealth": "4"
+          }
+        ],
+        "senses": "Blindsight 60 ft., passive Perception 9",
+        "languages": "understands Common but can't speak",
+        "cr": "1/8",
+        "traits": [
+          {
+            "name": "Pack Tactics",
+            "desc": "The blight has {@variantrule Advantage|XPHB} on an attack roll against a creature if at least one of the blight's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claw",
+            "desc": "{@atkr m} +4, reach 5 ft. 4 (1d4 + 2) Slashing damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Scarecrow",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Scarecrow",
+        "source": [
+          "XMM"
+        ],
+        "type": "construct",
+        "size": "Medium",
+        "alignment": "chaotic evil",
+        "hp": 27,
+        "hit_dice": "6d8",
+        "ac": 11,
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          13,
+          11,
+          10,
+          10,
+          13
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "Darkvision 60 ft., passive Perception 10",
+        "languages": "Common plus one other language",
+        "cr": "1",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Fearsome Claw",
+            "desc": "{@atkr m} +3, reach 5 ft. 6 (2d4 + 1) Slashing damage, and the target has the Frightened condition until the end of the scarecrow's next turn."
+          },
+          {
+            "name": "Terrifying Glare",
+            "desc": "{@actSave wis} 11, one creature the scarecrow can see within 30 feet. {@actSaveFail} The target has the Frightened condition."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
     ]
   ],
   "defaultLayouts": {},
